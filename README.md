@@ -24,4 +24,5 @@ Checks if a value exist in the list.
 Prints the contents of the list.
 
   # How to use
-  You just need to make a new instance of the user defined data type List_t and start adding the items to the list.
+  
+  You just need to include the header file LL.h then make a new instance of the user defined data type List_t and start adding the items to the list.
